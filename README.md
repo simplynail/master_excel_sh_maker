@@ -6,4 +6,5 @@ Developed in Python + tkinter
 Uses openpyxl for MS Excel files r/w
 
 Screenshot:
+
 ![Image of app gui](https://github.com/simplynail/master_excel_sh_maker/blob/master/master_excel_sh_maker_gui.PNG)
